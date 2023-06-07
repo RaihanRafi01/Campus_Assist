@@ -7,7 +7,7 @@ main()
     int a,b,c,d,e,f,g,h,i,j,k,l,m,n,o;
     char ah,bh,ch,dh,eh;
     string sta,stb,stc;
-    cout<<" ***** PROJECT NAME = AIUB CHATBOX ***** "<<endl<<endl;
+    cout<<" ***** PROJECT NAME = Campus Assist ***** "<<endl<<endl;
     cout<<" <<<+++++ PREPARED BY ~~~ MD.Raihanul Islam Rafi <ID: 19-41790-3> +++++>>>"<<endl;
 
     cout<<"                     ~~~~~***** GOOD DAY *****~~~~~      "<<endl;
@@ -588,7 +588,7 @@ main()
 
         else if(n==2)
                {
-                   cout<<"AIUB Performing Arts Club’s goal is to bring the very best performers together on a plat form to pull the trigger of performances "<<endl;
+                   cout<<"AIUB Performing Arts ClubÂ’s goal is to bring the very best performers together on a plat form to pull the trigger of performances "<<endl;
                    cout<<"at a level of utmost superiority.Individual students are chosen on the basis of a good experience, dedication "<<endl;
                    cout<<"And hard-work on respective performing arts categories such as :"<<endl;
                    cout<<"dancing, singing, acting, playing musical instrument, reciting, designing etc."<<endl<<endl;;
@@ -651,8 +651,8 @@ main()
 
         else if(n==2)
                {
-                   cout<<"A Picture says a thousand words…… The idea that a picture can convey what might take to express was voiced many years ago and it still holds true."<<endl;
-                   cout<<"A photographer’s strength is his ability to record the reality accurately. He is the witness of events."<<endl;
+                   cout<<"A Picture says a thousand wordsÂ…Â… The idea that a picture can convey what might take to express was voiced many years ago and it still holds true."<<endl;
+                   cout<<"A photographerÂ’s strength is his ability to record the reality accurately. He is the witness of events."<<endl;
                    cout<<"AIUB Photography Club is one of the most active clubs of AIUB."<<endl;
                    cout<<"AIUBPC has young and talented photographers in their club who covers all the programs of AIUB."<<endl;
                    cout<<"AIUB Photography Club works to improve the basic skills of photography. We believe that practice and hard work can"<<endl;
@@ -684,9 +684,9 @@ main()
 
         else if(n==2)
                {
-                   cout<<"“SHOMOY” this is a students club of Aiubians.At first we organized some activities to celebrate the Pahela Baishak which includes T-Shirt with breakfast."<<endl;
+                   cout<<"Â“SHOMOYÂ” this is a students club of Aiubians.At first we organized some activities to celebrate the Pahela Baishak which includes T-Shirt with breakfast."<<endl;
                    cout<<"Then we thought to spread our spirit among others. We have more than 100 registered members with a presidium committee."<<endl;
-                   cout<<"The biggest program that we have done is “Help the AILA affected people’. We collected over 70 thousand taka from our friend circle and faculties to raise a fund. "<<endl;
+                   cout<<"The biggest program that we have done is Â“Help the AILA affected peopleÂ’. We collected over 70 thousand taka from our friend circle and faculties to raise a fund. "<<endl;
                    cout<<"Then distributed this among the poor and helpless people of Satkhira..."<<endl;
                    cout<<"Then on january 2010 we have collected money and cloths from the students of AIUB and from the teachers...After that we went to"<<endl;
                    cout<<"DINAJPUR for distributing that cloths and we have distributed 650 combols among the poor and helpless people..."<<endl;
@@ -752,8 +752,8 @@ main()
 
         else if(n==2)
                {
-                   cout<<"Since ACC’s inception, ACC, has devoted to serve AIUB’s students and completed many events which included interesting aspects such as"<<endl;
-                   cout<<"CS fest, programming and gaming contests along with other various aspects, which brought it’s greatest success."<<endl;
+                   cout<<"Since ACCÂ’s inception, ACC, has devoted to serve AIUBÂ’s students and completed many events which included interesting aspects such as"<<endl;
+                   cout<<"CS fest, programming and gaming contests along with other various aspects, which brought itÂ’s greatest success."<<endl;
                    cout<<"ACC has created relations with various famous organizations such as Microsoft, Mozila Bangladesh and others."<<endl;
                    cout<<"ACC is active,organized and works for arranging events related to current technology."<<endl;
                    cout<<"ACC also provides adequate facilities to members such as workshops, seminars and others"<<endl<<endl;
